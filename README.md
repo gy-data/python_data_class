@@ -17,3 +17,6 @@
     2) Pandas
     3) Matplotlib
     4) Seaborn
+
+## 4_basic syntax 
+    (출처 :  https://nomadcoders.co/python-for-beginners)
